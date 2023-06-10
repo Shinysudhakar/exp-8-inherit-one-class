@@ -1,0 +1,1 @@
+# exp-8-inherit-one-class
